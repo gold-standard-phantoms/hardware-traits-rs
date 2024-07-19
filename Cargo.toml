@@ -1,0 +1,10 @@
+[package]
+name = "hardware-traits"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "hardware_traits"
+path = "src/lib.rs"
+
+[dependencies]
